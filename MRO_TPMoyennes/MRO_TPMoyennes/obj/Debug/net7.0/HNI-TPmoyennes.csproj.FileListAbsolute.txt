@@ -1,0 +1,30 @@
+C:\Users\mathi\OneDrive\Bureau\FORMATION\TP Moyenne\obj\Debug\net7.0\HNI-TPmoyennes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathi\OneDrive\Bureau\FORMATION\TP Moyenne\obj\Debug\net7.0\HNI-TPmoyennes.AssemblyInfoInputs.cache
+C:\Users\mathi\OneDrive\Bureau\FORMATION\TP Moyenne\obj\Debug\net7.0\HNI-TPmoyennes.AssemblyInfo.cs
+C:\Users\mathi\OneDrive\Bureau\FORMATION\TP Moyenne\obj\Debug\net7.0\HNI-TPmoyennes.csproj.CoreCompileInputs.cache
+C:\Users\mathi\OneDrive\Bureau\FORMATION\TP Moyenne\obj\Debug\net7.0\HNI-TPmoyennes.sourcelink.json
+C:\Users\mathi\OneDrive\Bureau\FORMATION\TP Moyenne\bin\Debug\net7.0\HNI-TPmoyennes.exe
+C:\Users\mathi\OneDrive\Bureau\FORMATION\TP Moyenne\bin\Debug\net7.0\HNI-TPmoyennes.deps.json
+C:\Users\mathi\OneDrive\Bureau\FORMATION\TP Moyenne\bin\Debug\net7.0\HNI-TPmoyennes.runtimeconfig.json
+C:\Users\mathi\OneDrive\Bureau\FORMATION\TP Moyenne\bin\Debug\net7.0\HNI-TPmoyennes.dll
+C:\Users\mathi\OneDrive\Bureau\FORMATION\TP Moyenne\bin\Debug\net7.0\HNI-TPmoyennes.pdb
+C:\Users\mathi\OneDrive\Bureau\FORMATION\TP Moyenne\obj\Debug\net7.0\HNI-TPmoyennes.dll
+C:\Users\mathi\OneDrive\Bureau\FORMATION\TP Moyenne\obj\Debug\net7.0\refint\HNI-TPmoyennes.dll
+C:\Users\mathi\OneDrive\Bureau\FORMATION\TP Moyenne\obj\Debug\net7.0\HNI-TPmoyennes.pdb
+C:\Users\mathi\OneDrive\Bureau\FORMATION\TP Moyenne\obj\Debug\net7.0\HNI-TPmoyennes.genruntimeconfig.cache
+C:\Users\mathi\OneDrive\Bureau\FORMATION\TP Moyenne\obj\Debug\net7.0\ref\HNI-TPmoyennes.dll
+C:\Users\mathi\OneDrive\Bureau\FORMATION\MRO_TPMoyennes\bin\Debug\net7.0\HNI-TPmoyennes.exe
+C:\Users\mathi\OneDrive\Bureau\FORMATION\MRO_TPMoyennes\bin\Debug\net7.0\HNI-TPmoyennes.deps.json
+C:\Users\mathi\OneDrive\Bureau\FORMATION\MRO_TPMoyennes\bin\Debug\net7.0\HNI-TPmoyennes.runtimeconfig.json
+C:\Users\mathi\OneDrive\Bureau\FORMATION\MRO_TPMoyennes\bin\Debug\net7.0\HNI-TPmoyennes.dll
+C:\Users\mathi\OneDrive\Bureau\FORMATION\MRO_TPMoyennes\bin\Debug\net7.0\HNI-TPmoyennes.pdb
+C:\Users\mathi\OneDrive\Bureau\FORMATION\MRO_TPMoyennes\obj\Debug\net7.0\HNI-TPmoyennes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathi\OneDrive\Bureau\FORMATION\MRO_TPMoyennes\obj\Debug\net7.0\HNI-TPmoyennes.AssemblyInfoInputs.cache
+C:\Users\mathi\OneDrive\Bureau\FORMATION\MRO_TPMoyennes\obj\Debug\net7.0\HNI-TPmoyennes.AssemblyInfo.cs
+C:\Users\mathi\OneDrive\Bureau\FORMATION\MRO_TPMoyennes\obj\Debug\net7.0\HNI-TPmoyennes.csproj.CoreCompileInputs.cache
+C:\Users\mathi\OneDrive\Bureau\FORMATION\MRO_TPMoyennes\obj\Debug\net7.0\HNI-TPmoyennes.sourcelink.json
+C:\Users\mathi\OneDrive\Bureau\FORMATION\MRO_TPMoyennes\obj\Debug\net7.0\HNI-TPmoyennes.dll
+C:\Users\mathi\OneDrive\Bureau\FORMATION\MRO_TPMoyennes\obj\Debug\net7.0\refint\HNI-TPmoyennes.dll
+C:\Users\mathi\OneDrive\Bureau\FORMATION\MRO_TPMoyennes\obj\Debug\net7.0\HNI-TPmoyennes.pdb
+C:\Users\mathi\OneDrive\Bureau\FORMATION\MRO_TPMoyennes\obj\Debug\net7.0\HNI-TPmoyennes.genruntimeconfig.cache
+C:\Users\mathi\OneDrive\Bureau\FORMATION\MRO_TPMoyennes\obj\Debug\net7.0\ref\HNI-TPmoyennes.dll
